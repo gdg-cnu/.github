@@ -12,5 +12,5 @@ _Google Developers Group on Campus: Chonnam National University_
 
 ## for Members
 
-시작하기 전에 GDG on Campu : CNU의 깃허브에서 주의할 점이 무엇인지 확인해주세요.
+시작하기 전에 GDG on Campus : CNU의 깃허브에서 주의할 점이 무엇인지 확인해주세요.
 - [(멤버 공개) Discussion #1](https://github.com/orgs/gdg-cnu/discussions/1)
