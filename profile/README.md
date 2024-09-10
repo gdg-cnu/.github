@@ -1,7 +1,7 @@
 # GDG on Campus : CNU
 
 <div style="display: flex; width: 100%; align-items: center; justify-content: center">
-  <img src="https://raw.githubusercontent.com/PIMM-DEV/.github/main/static/logo_full.png"/>
+  <img src="https://raw.githubusercontent.com/gdg-cnu/.github/main/static/logo_full.png"/>
 </div>
 
 _Google Developers Group on Campus: Chonnam National University_
