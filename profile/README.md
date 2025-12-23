@@ -26,8 +26,9 @@ GDG on Campus : CNU provides Program and Environment that reflects the creative 
 
 - Newsletter Signup Form: https://forms.gle/wUXk1tARoG3B9fne8 
 <br>
+
 ## for Members
-<br>
+
 시작하기 전에 GDG on Campus : CNU의 깃허브에서 주의할 점이 무엇인지 확인해주세요.
-<br>
+
 - [(멤버 공개) Discussion #1](https://github.com/orgs/gdg-cnu/discussions/1)
